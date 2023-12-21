@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/uEcH2pb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='hhttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk1Mjg1OGN3djdsMmkxNmRxbWFwNWp2bmxjb2EzbmpuaWE2M3dybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hGQ5q0LadiBHet8XGQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
