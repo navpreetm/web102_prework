@@ -33,7 +33,7 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-One challenge I had with the app was just refereshing my JavaScript knowledge and utilizing the DOM.
+This was a lot of fun, I had to refresh my knowledge in manipulating the DOM but this was a good refresher of some JavaScript Fundamentals.
 
 ## License
 
